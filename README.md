@@ -2,12 +2,13 @@
 Open Source interface to the Yamaha VMAX 225 Outboard engine
 
 
-This project aims to provide the hardware, and software interface to the Yamaha VMAX EFI outboard engine.
+This project aims to provide the hardware, and software interface to the Yamaha VMAX EFI outboard engine for live diagnostic monitoring.  Useful for people that want additional engine information for troubleshooting purposes.
 
-1 - Normal
-13 - Incorrect pulser coil input signal
-14 - No crank position sensor input signal
-15 - Incorrect engine cooling water temperature sensor input signal
+
+* 1 - Normal
+* 13 - Incorrect pulser coil input signal
+* 14 - No crank position sensor input signal
+* 15 - Incorrect engine cooling water temperature sensor input signal
 17 - Incorrect knocking sensor input signal
 18 - Incorrect throttle position sensor input signal
 19 - Low battery input voltage
