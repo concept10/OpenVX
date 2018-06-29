@@ -24,7 +24,7 @@ Fuel injection period is being slightly corrected (when knocking control)
 Ignition timing is being slightly corrected (when knocking control)
 * 41
 Overrevolution control (during ignition cutoff operation)
-42 - Overheat control/oil empty control
+* 42 - Overheat control/oil empty control
 43 - Buzzer sounding
 44 - Engine stop switch control operating
 
