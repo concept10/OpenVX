@@ -4,6 +4,16 @@ Open Source interface to the Yamaha VMAX 225 Outboard engine
 
 This project aims to provide the hardware, and software interface to the Yamaha VMAX EFI outboard engine for live diagnostic monitoring.  Useful for people that want additional engine information for troubleshooting purposes.
 
+## General
+Why would someone want this?
+
+- Diagnostic purposes using real-time engine data
+
+Analog Signals
+Digital Events (event.msg, event.message, event.timestamp, event.source, )
+
+###
+XOR
 
 *  1 - Normal
 * 13 - Incorrect pulser coil input signal
