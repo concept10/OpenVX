@@ -22,6 +22,5 @@
   "dependencies": {
     "rxdb": "^9.5.0",
     "rxjs": "^6.6.2",
-    "timesync": "^1.0.7"
   }
 }
